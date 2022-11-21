@@ -1,8 +1,6 @@
-
-.box {
-    outline: 2px solid red;
-border: 10px solid blueviolet;
-margin-top: 20px;
-padding: 40px;
+.card {
+    
+    align-items: center;
+width: 700px;
+border: 2px solid red ;
 }
-
